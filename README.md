@@ -4,3 +4,6 @@ Aurreko kapituluetan ikusi ditugun eragileak eta espresioak erabilita, programak
 Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen adibide bakoitzaren kokapena:
 - ForEgitura: 94. orr.
 - Hirukia: 105. orr.
+
+| [Liburuaren aurkezpena](https://youtu.be/b7Lp1WZJflE) | [Liburuaren erabilpena](https://youtu.be/xtkatKohanU) |
+| ------------- | ------------- |
